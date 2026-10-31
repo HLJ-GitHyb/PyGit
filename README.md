@@ -58,21 +58,6 @@
 | `Ctrl+O` | 打开仓库 |
 | `Ctrl+S` | 提交 |
 | `Ctrl+D` | 查看差异 |
-
-## 📂 项目结构
-
-```
-PyGit/
-├── git_gui.py          # 主程序（~600 行，完整 GUI）
-├── generate_icon.py    # 图标生成脚本（Pillow 绘制）
-├── pygit_icon.ico      # 应用图标 (ICO, 多尺寸)
-├── pygit_icon.png      # 应用图标 (PNG, 256x256)
-├── 启动PyGit.bat        # Windows 启动脚本
-├── requirements.txt    # Python 依赖
-├── 使用教程.md          # 详细使用教程
-├── README.md           # 本文件
-├── LICENSE             # MIT 许可证
-└── .gitignore          # Git 忽略规则
 ```
 
 ## 🧠 Git 原理图解
