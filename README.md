@@ -36,21 +36,7 @@
 ### 环境要求
 
 - **Python** 3.8+
-- **Git** 2.0+（需加入系统 PATH）
-
-### 安装与运行
-
-```bash
-# 1. 克隆本项目
-git clone https://github.com/你的用户名/PyGit.git
-cd PyGit
-
-# 2. 安装依赖
-pip install -r requirements.txt
-
-# 3. 启动
-python git_gui.py
-```
+- **Git** 2.0+（需加入系统 PATH）`
 
 > 💡 **Windows 用户** 也可以直接双击 `启动PyGit.bat` 运行。
 
