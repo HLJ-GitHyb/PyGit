@@ -9,11 +9,6 @@
   <b>零外部依赖（除 Pillow），开箱即用</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-2.0%2B-orange?logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="Platform"/>
 </p>
 
 ---
