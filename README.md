@@ -33,14 +33,16 @@
 
 ## 🚀 快速开始
 
-### 环境要求
+### 下载
+版本1：
 
-- **Python** 3.8+
-- **Git** 2.0+（需加入系统 PATH）`
+百度网盘：链接: https://pan.baidu.com/s/1cQwFOIDAoXj-OU7CzblnUw?pwd=ivvw 提取码: ivvw
 
-> 💡 **Windows 用户** 也可以直接双击 `启动PyGit.bat` 运行。
+夸克网盘：链接：https://pan.quark.cn/s/4274c7e1da92?pwd=bMwy 提取码：bMwy
 
-## 📖 界面说明
+蓝奏云：链接：https://wwalq.lanzoum.com/iF3Qf4e7nsob 密码:8uej
+
+### 📖 界面说明
 
 界面分为四个标签页：
 
