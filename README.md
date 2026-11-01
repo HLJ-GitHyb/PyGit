@@ -78,6 +78,10 @@
 
 [MIT License](LICENSE) — 自由使用、修改和分发。
 
+## 其他网站
+
+https://hlj-githyb.github.io/PyGit_html/
+
 ---
 
 <p align="center">PyGit v1.0.0 · Made with Python + Tkinter</p>
